@@ -10,7 +10,7 @@ filegroup(
     srcs = [
         ":package-srcs",
         "//vendor/bitbucket.org/bertimus9/systemstat:all-srcs",
-        "//vendor/bitbucket.org/ww/goautoneg:all-srcs",
+        "//vendor/github.com/munnerz/goautoneg:all-srcs",
         "//vendor/cloud.google.com/go/compute/metadata:all-srcs",
         "//vendor/cloud.google.com/go/internal:all-srcs",
         "//vendor/github.com/Azure/azure-sdk-for-go/services/compute/mgmt/2017-12-01/compute:all-srcs",
@@ -318,7 +318,7 @@ filegroup(
         "//vendor/github.com/prometheus/client_golang/prometheus:all-srcs",
         "//vendor/github.com/prometheus/client_model/go:all-srcs",
         "//vendor/github.com/prometheus/common/expfmt:all-srcs",
-        "//vendor/github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg:all-srcs",
+        "//vendor/github.com/prometheus/common/internal/github.com/munnerz/goautoneg:all-srcs",
         "//vendor/github.com/prometheus/common/model:all-srcs",
         "//vendor/github.com/prometheus/procfs:all-srcs",
         "//vendor/github.com/quobyte/api:all-srcs",

@@ -1,6 +1,6 @@
 include $(GOROOT)/src/Make.inc
 
-TARG=bitbucket.org/ww/goautoneg
+TARG=github.com/munnerz/goautoneg
 GOFILES=autoneg.go
 
 include $(GOROOT)/src/Make.pkg

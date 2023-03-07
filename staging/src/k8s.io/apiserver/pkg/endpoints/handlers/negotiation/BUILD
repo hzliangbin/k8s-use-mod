@@ -25,7 +25,7 @@ go_library(
     ],
     importpath = "k8s.io/apiserver/pkg/endpoints/handlers/negotiation",
     deps = [
-        "//vendor/bitbucket.org/ww/goautoneg:go_default_library",
+        "//vendor/github.com/munnerz/goautoneg:go_default_library",
         "//vendor/k8s.io/apimachinery/pkg/apis/meta/v1:go_default_library",
         "//vendor/k8s.io/apimachinery/pkg/runtime:go_default_library",
         "//vendor/k8s.io/apimachinery/pkg/runtime/schema:go_default_library",

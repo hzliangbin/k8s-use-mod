@@ -28,7 +28,7 @@ import (
 	"sync"
 	"time"
 
-	"bitbucket.org/ww/goautoneg"
+	"github.com/munnerz/goautoneg"
 
 	yaml "gopkg.in/yaml.v2"
 

@@ -17,9 +17,8 @@
 			"Rev": "0eeff89b0690611fc32e21f0cd2e4434abf8fe53"
 		},
 		{
-			"ImportPath": "bitbucket.org/ww/goautoneg",
-			"Comment": "null-5",
-			"Rev": "75cd24fc2f2c2a2088577d12123ddee5f54e0675"
+			"ImportPath": "github.com/munnerz/goautoneg",
+			"Rev": "a547fc61f48d567d5b4ec6f8aee5573d8efce11d"
 		},
 		{
 			"ImportPath": "cloud.google.com/go/compute/metadata",
@@ -2538,7 +2537,7 @@
 			"Rev": "13ba4ddd0caa9c28ca7b7bffe1dfa9ed8d5ef207"
 		},
 		{
-			"ImportPath": "github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
+			"ImportPath": "github.com/prometheus/common/internal/github.com/munnerz/goautoneg",
 			"Rev": "13ba4ddd0caa9c28ca7b7bffe1dfa9ed8d5ef207"
 		},
 		{
